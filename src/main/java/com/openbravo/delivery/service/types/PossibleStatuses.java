@@ -8,18 +8,17 @@ public enum PossibleStatuses {
     T("TRANSIT"),
     D("DELIVERED");
 
-
+    public final String textStatus; 
 
     PossibleStatuses(String textStatus) {
         this.textStatus = textStatus;
     }
 
-    public final String textStatus;
     private static final Random randomStatus = new Random();
+    
     public String getTextStatus() { return textStatus; }
-    public String getChar() {
-        return name();
-    }
+   
+    public String getChar() { return name();}
 
     public static PossibleStatuses randomStatusForThisExercise()  {
         PossibleStatuses[] statuses = values();
