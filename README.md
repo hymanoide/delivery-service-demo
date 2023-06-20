@@ -9,6 +9,9 @@ This demo project that let you call to an endpoint with a POST HTTP request indi
 
 ## How to Run
 
+<em>Personally,I recommend open the project with your favourite IDE and let it install dependencies and 
+build up the entire project for you.</em> 
+
 - Clone the project
 - Build and run the application
 ```
