@@ -12,7 +12,7 @@ This demo project that let you call to an endpoint with a POST HTTP request indi
 <em>Personally,I recommend open the project with your favourite IDE and let it install dependencies and 
 build up the entire project for you.</em> 
 
-- Clone the project
+- Clone the project [https://github.com/hymanoide/delivery-service-demo.git]
 - Build and run the application
 ```
 .\mvnw spring-boot:run
