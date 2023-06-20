@@ -1,6 +1,6 @@
 # Delivery Service 
 
-This demo project that let you call to an endpoint with a POST HTTP request indicating an order number and customer type, and will return a Json with the estimated delivery date from an OrderService (hypothetically connected with a shipping courier).
+This demo project lets you call to an endpoint with a POST HTTP request indicating an order number and customer type, and will return a Json with the estimated delivery date from an OrderService (hypothetically connected with a shipping courier).
 
 ## Requirements
 * Java SDK 20 / JDK 20
