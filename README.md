@@ -44,7 +44,7 @@ The expected response should be a JSON similar to following or an error if occur
 
 ## Test
 
-Also project provide a Junit and Mockito testing unit, so you can run it with: 
+Also, the project provides a Junit and Mockito testing unit, so you can run it with: 
 
 ``
 .\mvnw test -Dtest=testDaysLeftToDelivery
